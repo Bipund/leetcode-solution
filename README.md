@@ -1,2 +1,1 @@
-# new-project
-this is the very first project in git
+All code avavilable here are of my own, to solve the logical algotitmic problem by leetcode website.
